@@ -1,0 +1,22 @@
+{
+    "name": "prosveshcheniye/auth",
+    "description": "Prosveshcheniye IdP client library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Yasinovsky",
+            "email": "vyasinovskiy@rosuchebnik.ru"
+        }
+    ],
+    "require": {
+        "php": "^5.6",
+        "league/oauth2-client": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Prosveshcheniye\\Auth\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
