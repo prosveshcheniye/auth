@@ -16,6 +16,13 @@ class Provider extends GenericProvider {
 
 
     /**
+     * Version number
+     */
+    const VERSION = '1.0.0';
+
+
+
+    /**
      * Prosveshcheniye IdP options
      * @var array
      */
