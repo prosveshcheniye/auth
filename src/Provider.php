@@ -8,7 +8,7 @@ use League\OAuth2\Client\Provider\GenericProvider;
 /**
  * Prosveshcheniye IdP provider representation
  *
- * @author      Victor Yasinovsky <vyasinovskiy@rosuchebnik.ru>
+ * @author      Victor Yasinovsky <vyasinovskiy@prosv.ru>
  * @package     Prosveshcheniye\Auth
  */
 class Provider extends GenericProvider {

@@ -7,7 +7,7 @@ use League\OAuth2\Client\Provider\GenericResourceOwner;
 /**
  * Prosveshcheniye IdP resource owner representation
  *
- * @author      Victor Yasinovsky <vyasinovskiy@rosuchebnik.ru>
+ * @author      Victor Yasinovsky <vyasinovskiy@prosv.ru>
  * @package     Prosveshcheniye\Auth
  */
 class ResourceOwner extends GenericResourceOwner {
